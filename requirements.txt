@@ -1,0 +1,6 @@
+google-colab == 1.0.0
+numpy == 1.21.0
+os.path2
+Pillow
+stegano == 0.9.8
+opencv-python == 4.5.2.54
